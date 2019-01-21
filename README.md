@@ -22,3 +22,7 @@ Assignment-I was given (Refer Assignment notepad): Expected date of commit from 
 Updated repository as of 17-Jan:
 1. Merging of all Assignments (Only Group-II has submitted)
 2. Introduction to hypothesis testing
+
+Updated repository as of 21-Jan:
+1. Uploaded the Hypothesis testing deck
+2. 60% discussion of the Hypothesis testing discussion
