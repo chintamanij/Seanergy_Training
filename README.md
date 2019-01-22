@@ -11,3 +11,18 @@ Updated repository as of 08 Jan-19:
 1. Z- Table
 2. R-Self Learning Resrouces 
 3. R-Self Tutorial
+
+Updated repository as of 9-11 Jan:
+1. Normal Distributions
+2. Standard Normal Distributions
+3. Sampling and the CLT deck
+
+Assignment-I was given (Refer Assignment notepad): Expected date of commit from the team was by 7 PM, 16 Jan-19
+
+Updated repository as of 17-Jan:
+1. Merging of all Assignments (Only Group-II has submitted)
+2. Introduction to hypothesis testing
+
+Updated repository as of 21-Jan:
+1. Uploaded the Hypothesis testing deck
+2. 60% discussion of the Hypothesis testing discussion
